@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4700&pause=500&color=37FFE9&center=true&vCenter=true&width=440&lines=Electrical+Engineering+Student;Universidad+de+Costa+Rica)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4700&pause=500&color=37FFE9&center=true&vCenter=true&width=440&lines=Electrical+Engineering+Student;Universidad+de+Costa+Rica" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="15">
