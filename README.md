@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=500&color=1CCAC2&center=true&vCenter=true&width=435&lines=Electrical+Ingineer+Student;At+Universidad+de+Costa+Rica+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=500&color=1CCAC2&center=true&vCenter=true&width=435&lines=Electrical+Ingineer+Student;Universidad+de+Costa+Rica+)](https://git.io/typing-svg)
 
 
 
