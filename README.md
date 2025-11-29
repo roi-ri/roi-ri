@@ -33,20 +33,22 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
     <!-- Linux -->
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+
     
   </marquee>
 </p>
 
 -------
 
-# 🌟 About Me
+# About Me
 
-Hello! I'm a passionate learner, always eager to grow and improve.  
-I enjoy exploring new technologies and challenging myself with exciting projects.  
+#### Electrical Engineering Student | Universidad de Costa Rica
+Focused on **RTL design**, **hardware verification**, and **software engineering**, also interested in application within the **biomedical industry**. 
 
-I am always open to opportunities that allow me to expand my skills, collaborate with others, and contribute to innovative solutions.  
 
-💡 I believe in continuous learning, curiosity, and sharing knowledge with the community.
+
+
+
 
 
 
