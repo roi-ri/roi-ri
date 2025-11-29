@@ -40,9 +40,9 @@
 
 -------
 
-**Electrical Engineering Student — Universidad de Costa Rica**  
-Focused on **RTL design**, **hardware verification**, and **software engineering**. Passionate about building reliable digital systems, optimizing design flows, and bridging hardware–software integration.
-
+## 🔧 Electrical Engineering Student — Universidad de Costa Rica  
+💡 Focused on **RTL design**, **hardware verification**, and **software engineering**.  
+⚙️ Passionate about building **reliable**, **efficient**, and **high-performance** digital systems.
 
 
 
