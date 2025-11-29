@@ -40,12 +40,8 @@
 
 -------
 
-# About Me
-
-#### Electrical Engineering Student | Universidad de Costa Rica
-Focused on **RTL design**, **hardware verification**, and **software engineering**, also interested in application within the **biomedical industry**. 
-
-
+**Electrical Engineering Student — Universidad de Costa Rica**  
+Focused on **RTL design**, **hardware verification**, and **software engineering**. Passionate about building reliable digital systems, optimizing design flows, and bridging hardware–software integration.
 
 
 
