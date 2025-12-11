@@ -5,52 +5,57 @@
   </a>
 </p>
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="15">
+<!-- Skills Scrolling Row -->
+<div align="center">
+  <div class="skills-scroll">
+    <div class="skills-track">
 
-    <!-- Bash -->
-    <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash"/>
+      <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash"/>
+      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
+      <img src="https://skillicons.dev/icons?i=verilog" height="48" alt="Verilog"/>
+      <img src="https://skillicons.dev/icons?i=latex" height="48" alt="LaTeX"/>
+      <img src="https://skillicons.dev/icons?i=matlab" height="48" alt="MATLAB"/>
+      <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++"/>
+      <img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/>
+      <img src="https://skillicons.dev/icons?i=cmake" height="48" alt="CMake"/>
+      <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL"/>
+      <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino"/>
+      <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
 
-    <!-- Git -->
-    <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
+      <!-- Duplicate for infinite loop -->
+      <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash"/>
+      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
+      <img src="https://skillicons.dev/icons?i=verilog" height="48" alt="Verilog"/>
+      <img src="https://skillicons.dev/icons?i=latex" height="48" alt="LaTeX"/>
+      <img src="https://skillicons.dev/icons?i=matlab" height="48" alt="MATLAB"/>
+      <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++"/>
+      <img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/>
+      <img src="https://skillicons.dev/icons?i=cmake" height="48" alt="CMake"/>
+      <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL"/>
+      <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino"/>
+      <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
 
-    <!-- Icarus Verilog -->
-    <img src="https://skillicons.dev/icons?i=verilog" height="48" alt="Icarus Verilog"/>
+    </div>
+  </div>
+</div>
 
-    <!-- LaTeX -->
-    <img src="https://skillicons.dev/icons?i=latex" height="48" alt="LaTeX"/>
+<style>
+.skills-scroll {
+  overflow: hidden;
+  width: 100%;
+}
 
-    <!-- MATLAB -->
-    <img src="https://skillicons.dev/icons?i=matlab" height="48" alt="MATLAB"/>
+.skills-track {
+  display: flex;
+  width: max-content;
+  animation: scroll 18s linear infinite;
+}
 
-    <!-- C++ -->
-    <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++"/>
-
-    <!-- C -->
-    <img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/>
-
-    <!-- CMake -->
-    <img src="https://skillicons.dev/icons?i=cmake" height="48" alt="CMake"/>
-
-    <!-- SQL -->
-    <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL"/>
-
-    <!-- Arduino -->
-    <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino"/>
-
-    <!-- Linux -->
-    <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
-
-  </marquee>
-</p>
-
--------
-
-## 🔧 Electrical Engineering Student — Universidad de Costa Rica  
-💡 Focused on **RTL design**, **hardware verification**, and **software engineering**.  
-⚙️ Passionate about building **reliable**, **efficient**, and **high-performance** digital systems.
-
-
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+</style>
 
 
 
