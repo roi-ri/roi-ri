@@ -14,15 +14,13 @@
       <br><sub><b>Verilog</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="./assets/uvm.svg" width="45" height="45" alt="UVM"/>
-      <br><sub><b>UVM</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/systemverilog/systemverilog-original.svg" width="45" height="45" alt="SystemVerilog"/>
+      <br><sub><b>SystemVerilog</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
       <br><sub><b>Python</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" alt="C"/>
       <br><sub><b>C</b></sub>
@@ -45,7 +43,6 @@
     </td>
   </tr>
 </table>
-
 -------
 
 ## Electrical Engineering Student — Universidad de Costa Rica  
