@@ -43,10 +43,15 @@
     </td>
   </tr>
 </table>
----
+
 
 ## Electrical Engineering Student — Universidad de Costa Rica  
-- Focused on **VLSI/RTL/Physical design & verification**.  
+
+-  **Design:** RTL in Verilog/SystemVerilog, from FSM controllers to an IEEE 802.3 1000BASE-X PCS
+-  **Verification:** UVM environments, assertions and functional coverage
+-  **Physical design:** RTL-to-GDSII with Synopsys tools 
+-  **Industry:** Post-silicon validation & debug intern at Intel
+
 
 
 
