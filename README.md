@@ -6,9 +6,45 @@
 </p>
 
 <h3 align="center">⚡ Tech Stack</h3>
-<p align="center">
-  <img src="./assets/tech-stack.png" alt="Verilog, SystemVerilog, UVM, Synopsys EDA, Python, C, C++, Bash, Linux, Git" width="100%"/>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/verilog/verilog-original.svg" width="45" height="45" alt="Verilog"/>
+      <br><sub><b>Verilog</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/uvm.svg" width="45" height="45" alt="UVM"/>
+      <br><sub><b>UVM</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+      <br><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+      <br><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="45" height="45" alt="Bash"/>
+      <br><sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
 
 -------
 
