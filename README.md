@@ -43,7 +43,7 @@
     </td>
   </tr>
 </table>
--------
+---
 
 ## Electrical Engineering Student — Universidad de Costa Rica  
 - Focused on **VLSI/RTL/Physical design & verification**.  
